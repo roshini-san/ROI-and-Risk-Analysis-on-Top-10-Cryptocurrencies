@@ -77,3 +77,11 @@ Risk-return classification
 
 🛠️ Help
 ValueErrors in CSV? → Ensure datetime and numeric formatting is consistent.
+
+🔮 Future Enhancements
+Integrate real-time data API (e.g., CoinGecko)
+Add Sentiment Analysis using Twitter/Reddit
+Deploy as a Streamlit dashboard
+Include Monte Carlo simulations for stress testing
+Expand to DeFi & altcoins
+Risk-adjusted portfolio suggestions
